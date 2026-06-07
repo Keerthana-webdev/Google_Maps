@@ -1,11 +1,15 @@
 ## Google_Map
 This is a basic web automation python script. This program takes in data in the form of address or latitude & longitude as given by the user and gives the particular Google Map for the request. It automates the task of opening google maps and then searching for it to just putting a command and getting the map directly. Documentation yet to be updated.
 
+---
+
 ### Features
 * Search locations using an address
 * Search locations using latitude and longitude
 * Automatically opens Google Maps in the default web browser
 * Easy-to-use terminal interface
+
+---
 
 ### Project Structure
 ```bash
@@ -15,11 +19,14 @@ google_mapit/
 ├── README.md
 └── requirements.txt
 ```
+---
 
 ### Requirements
 * Python 3.x
 * Internet connection
 * A web browser (Chrome, Edge, Firefox, etc.)
+
+---
 
 ### Installation
 ```
@@ -31,6 +38,7 @@ cd google_maps
 
 3️⃣ No additional packages are required since `webbrowser` is a built-in Python module.
 ```
+---
 
 ### Usage
 ```bash
@@ -51,6 +59,7 @@ Give the address >> Bengaluru
 Latitude >> 12.9716
 Longitude >> 77.5946
 ```
+---
 
 ### Author
 
