@@ -37,6 +37,11 @@ cd google_maps
 ### Run the program:
 python maps.py
 
+### Menu
+Select any option:
+    1. Address
+    2. Latitude and Longitude
+
 ### Example 1: Search by Address
 >> 1
 Give the address >> Bengaluru
